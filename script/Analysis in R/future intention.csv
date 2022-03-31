@@ -1,0 +1,26 @@
+,category,very unlikely,unlikely,neutral,likely,very likely,question,subtable
+0,ECommerce Dependent,3,1,4,13,12,Do Contactless Door Delivery,Shopping Style
+1,ECommerce Independent,26,3,13,21,14,Do Contactless Door Delivery,Shopping Style
+2,ENonFood,24,4,7,10,12,Do Contactless Door Delivery,Shopping Style
+3,ENonFood & EPrepFood,19,7,14,14,41,Do Contactless Door Delivery,Shopping Style
+4,Partially ECommerce,4,2,9,11,22,Do Contactless Door Delivery,Shopping Style
+5,ECommerce Dependent,6,3,3,10,11,Do Curbside Pickup,Shopping Style
+6,ECommerce Independent,26,9,11,19,12,Do Curbside Pickup,Shopping Style
+7,ENonFood,22,2,14,11,8,Do Curbside Pickup,Shopping Style
+8,ENonFood & EPrepFood,10,8,17,27,33,Do Curbside Pickup,Shopping Style
+9,Partially ECommerce,6,8,6,16,12,Do Curbside Pickup,Shopping Style
+10,ECommerce Dependent,8,5,3,10,7,Do In-store Pickup,Shopping Style
+11,ECommerce Independent,24,7,15,18,13,Do In-store Pickup,Shopping Style
+12,ENonFood,20,3,12,15,7,Do In-store Pickup,Shopping Style
+13,ENonFood & EPrepFood,9,8,19,32,27,Do In-store Pickup,Shopping Style
+14,Partially ECommerce,7,7,9,16,9,Do In-store Pickup,Shopping Style
+15,ECommerce Dependent,10,9,4,8,2,Visit Retail,Shopping Style
+16,ECommerce Independent,3,14,10,26,25,Visit Retail,Shopping Style
+17,ENonFood,4,8,11,16,18,Visit Retail,Shopping Style
+18,ENonFood & EPrepFood,7,15,15,34,24,Visit Retail,Shopping Style
+19,Partially ECommerce,3,15,8,9,13,Visit Retail,Shopping Style
+20,ECommerce Dependent,9,12,6,4,2,Visit Restaurant,Shopping Style
+21,ECommerce Independent,14,23,9,13,19,Visit Restaurant,Shopping Style
+22,ENonFood,11,14,9,11,12,Visit Restaurant,Shopping Style
+23,ENonFood & EPrepFood,17,26,15,22,15,Visit Restaurant,Shopping Style
+24,Partially ECommerce,8,17,4,10,9,Visit Restaurant,Shopping Style
