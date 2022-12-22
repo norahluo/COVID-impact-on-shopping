@@ -1,2 +1,5 @@
-# Impacat of the COVID-19 pandemic and generational heterogeneity on ecommerce shopping styles
-A case study of Sacramento, California
+# Impact of the COVID-19 pandemic and generational heterogeneity on ecommerce shopping styles 
+
+This repository contains the replication data and code for Luo et al. (2022) Impact of the COVID-19 pandemic and generational geterogeneity on ecommerce shopping styles - A case study of Sacramento, California
+
+The paper is submitted to Communication in Transportation Research and it is now under review.
