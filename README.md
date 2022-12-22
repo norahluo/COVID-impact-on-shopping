@@ -1,4 +1,4 @@
-# Impact of the COVID-19 pandemic and generational heterogeneity on ecommerce shopping styles 
+### Impact of the COVID-19 pandemic and generational heterogeneity on ecommerce shopping styles 
 
 This repository contains the replication data and code for \
 \
