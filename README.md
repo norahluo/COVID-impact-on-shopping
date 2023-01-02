@@ -32,12 +32,12 @@ All main results in the paper can be replicated by running the `script/ECommerce
     - `DoInStage23-InStorePickup`
     - `DoInStage23-VisitRetail`
     - `DoInStage23-VisitRestaurant`
-  - demographic information: number of kids in the household pre-pandemic (obtained from Sacramento Area Council of Government (SACOG) 2018 household travel survey (HTS), respondent's age, personal income, household income, household size  
+  - demographic information: respondent's age, personal income, household income, household size  
     - `age`
     - `PersonalIncome`
     - `HouseholdIncome`
     - `NumberInHousehold`
-    - `kids`
+  - number of kids (`kids`) in the household pre-pandemic (obtained from Sacramento Area Council of Government (SACOG) 2018 household travel survey (HTS).
 
 ### Environment
 The code is written in python 3. Packages and library required include:
