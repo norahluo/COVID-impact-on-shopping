@@ -4,9 +4,9 @@ This repository contains the replication data and code for \
 \
 `Luo et al. (2022) Impact of the COVID-19 pandemic and generational geterogeneity on ecommerce shopping styles - A case study of Sacramento, California`
 
-This paper uses a modified kmeans clustering algorithm to group households by their shopping channel usage patterns (i.e., share of online orders) across different commodity types during the pandemic. Five shopping style groups are identified including ECommerce Independent, Ecommerce Dependent and three mixed mode in-between. A distance-based rule is applied to identify household's shopping style pre-pandemic based on their online shopping frequency. The dynamic of shopping behaviors under the impact of pandemic is further examined. In addition, generational heterogeneity is highlighted in this paper that different generation cohorts are influenced disproportionally.
+This paper aims at understanding the impact of the pandemic on household's shopping channel usage pattern. A modified kmeans clustering algorithm is applied to identify household's shopping style (i.e., share of online orders across eight commodity types) during the pandemic. Five shopping style groups are identified, including ECommerce Independent, Ecommerce Dependent and three mixed mode in-between. A distance-based rule is applied to identify household's shopping style pre-pandemic based on their online shopping frequency and the transition between styles under the impact of the pandemic is examined. In addition, generational heterogeneity is also highlighted in this paper that different generation cohorts are influenced disproportionally.
 
-The paper is submitted to [Communication in Transportation Research (COMMTR)](https://www.sciencedirect.com/journal/communications-in-transportation-research) and it is now under review.
+The paper is submitted to and accepted by [Communication in Transportation Research (COMMTR)](https://www.sciencedirect.com/journal/communications-in-transportation-research).
 
 ### Code
 All main results in the paper can be replicated by running the `script/ECommerceShopping.ipynb` notebook
