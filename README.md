@@ -6,7 +6,7 @@ This repository contains the replication data and code for \
 
 This paper aims at understanding the impact of the pandemic on household's shopping channel usage pattern. A modified kmeans clustering algorithm is applied to identify household's shopping style (i.e., share of online orders across eight commodity types) during the pandemic. Five shopping style groups are identified, including ECommerce Independent, Ecommerce Dependent and three mixed mode in-between. A distance-based rule is applied to identify household's shopping style pre-pandemic based on their online shopping frequency and the transition between styles under the impact of the pandemic is examined. In addition, generational heterogeneity is also highlighted in this paper that different generation cohorts are influenced disproportionally.
 
-The paper is submitted to and accepted by [Communication in Transportation Research (COMMTR)](https://www.sciencedirect.com/journal/communications-in-transportation-research).
+The paper is published in [Communication in Transportation Research (COMMTR)](https://www.sciencedirect.com/journal/communications-in-transportation-research).
 
 ### Code
 All main results in the paper can be replicated by running the `script/ECommerceShopping.ipynb` notebook
